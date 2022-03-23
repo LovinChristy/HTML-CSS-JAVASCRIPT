@@ -1,1 +1,5 @@
 # HTML-CSS-JAVASCRIPT
+
+QUICK QUIZ APP
+
+Tech : HTML5 ,CSS, JavaScript
